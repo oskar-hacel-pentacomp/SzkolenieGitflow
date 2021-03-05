@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BibliotekaWspolna;
+using System;
 
 namespace AplikacjaKonsolowa
 {
@@ -7,6 +8,10 @@ namespace AplikacjaKonsolowa
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Test test = new Test();
+
+            test.TestBibliotekiWspolnej();
         }
     }
 }
