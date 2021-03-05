@@ -1,0 +1,4 @@
+[submodule "ModulPodrzedny"]
+	path = ModulPodrzedny
+	url = https://github.com/oskar-hacel-pentacomp/ModulPodrzedny
+	branch = develop
